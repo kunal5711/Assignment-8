@@ -1,0 +1,40 @@
+#myform {
+    /* border: 2px double black; */
+    height: 80vh;
+    font-size: 20px;
+    width: 30vw;
+    padding-left: 10px;
+    margin: 56px auto 0px auto;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin: 20px 150px;
+}
+
+.error {
+    color: red;
+}
+
+input {
+    border-radius: 8px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 618;
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+}
